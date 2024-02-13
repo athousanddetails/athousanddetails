@@ -1,13 +1,12 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gustavo+Lima!;" />
-</h1>
+<h1 align="center">Hi, I'm Gustavo Lima! 👋</h1>
+
 <h3 align="center">Data Scientist and Machine Learning</h3>
 
 
 <div align="center"> 
-  <a href="gustavoblima@me.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a> 
+  <a href="mailto:gustavoblima@me.com">
+    <img src="https://img.shields.io/badge/-Mail-white?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white&link=gustavoblima@me.com"alt="Mail:athousanddetails">
+  </a>
   <a href="https://www.linkedin.com/in/gustavoborgeslima/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -15,9 +14,7 @@
 
 <br> 
 
-Creative Data Scientist with a strong background in customer experience and sales. Currently teaching Data Science and Machine Learning at 4Geeks Academy.
-Hands-on experience in Machine Learning (Python, Pandas, Scikit, Keras / TensorFlow) with a big curiosity of Deep Learning / LLM.
-Currently looking to join projects that focus in any area of Data Science / Machine Learning where I can contribute with my expertise and problem-solving attitude.
+Creative Data Scientist with a strong background in customer experience and sales. Currently teaching Data Science and Machine Learning at 4Geeks Academy. Hands-on experience in Machine Learning (Python, Pandas, Scikit, Keras / TensorFlow) with a big curiosity of Deep Learning / LLM. Currently looking to join projects that focus in any area of Data Science / Machine Learning where I can contribute with my expertise and problem-solving attitude.
 
 <div align="center">
  
