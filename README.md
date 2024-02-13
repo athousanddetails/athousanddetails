@@ -15,15 +15,17 @@
 
 <br> 
 
-Creative Data Scientist with a background in sales and current hands-on experience in Machine Learning (Python, Pandas, Scikit, Keras / TensorFlow) with a deep curiosity of Deep Learning, Predictive Models in Audio. Exploratory Data Analysis and Model Boosting expert.
+Creative Data Scientist with a strong background in customer experience and sales. Currently teaching Data Science and Machine Learning at 4Geeks Academy.
+Hands-on experience in Machine Learning (Python, Pandas, Scikit, Keras / TensorFlow) with a big curiosity of Deep Learning / LLM.
+Currently looking to join projects that focus in any area of Data Science / Machine Learning where I can contribute with my expertise and problem-solving attitude.
 
 <div align="center">
  
-🔭 I’m currently working on **Data Science**
+🔭 I’m currently working on **Data Science / Machine Learning**
  
-💬 Ask me about **Python**
+💬 Ask me about **Python / Machine Learning / Data Science**
 
-📧 Reach me out: gustavoblima@me.com
+📧 Reach me out: **gustavoblima@me.com**
 
  </div>
 
