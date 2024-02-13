@@ -29,8 +29,7 @@ Creative Data Scientist with a background in sales and current hands-on experien
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,mysql" />
-    <img src="https://skillicons.dev/icons?i=excel" /><br>
+    <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,fastapi,tensorflow,sklearn,pytorch,opencv,github,vscode" />
 </div>
 
 <br/>
