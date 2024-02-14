@@ -28,7 +28,7 @@ Creative Data Scientist with a strong background in customer experience and sale
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,fastapi,tensorflow,sklearn,pytorch,opencv,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,flask,mysql,sqlite,tensorflow,sklearn,pytorch,opencv,github,git,fastapi,html,css,vscode,linux,discord" />
 </div>
 
 <br/>
