@@ -14,7 +14,8 @@
 
 <br> 
 
-Creative Data Scientist with a strong background in customer experience and sales. Currently teaching Data Science and Machine Learning at 4Geeks Academy. Hands-on experience in Machine Learning (Python, Pandas, Scikit, Keras / TensorFlow) with a big curiosity of Deep Learning / LLM. Currently looking to join projects that focus in any area of Data Science / Machine Learning where I can contribute with my expertise and problem-solving attitude.
+Passionate and skilled Data Scientist with a knack for driving insightful conclusions from diverse datasets and leveraging Python programming for precise solutions. Familiar with Jupyter notebooks and committed to meticulous code documentation. Adept at collaborating with peers, advocating for code integrity, and unifying data from varied sources. Proven aptitude in solving complex Python challenges, and a strong foundation in mathematical reasoning. Fluent in English, seeking to contribute to pioneering tech ventures, and eager to grow professionally in a remote, global setting.
+Currently working as Data Scientist and Teacher Assistant at 4Geeks Academy
 
 <div align="center">
  
